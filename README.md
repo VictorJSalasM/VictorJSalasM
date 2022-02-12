@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VictorJSalasM and I'm from Mexico, I'm 20 years old, I study software engineering at UANL, MX., nice to meet you :)
+- 👋 Hi, I’m @VictorJSalasM and I'm from Mexico, I'm 20 years old, I study software engineering at FIME,UANL, MX., nice to meet you :)
 - 👀 I’m interested in assembly, repair or fix problems with PC, although I like programming
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on small projects to learn
